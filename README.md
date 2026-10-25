@@ -66,14 +66,6 @@ A computer vision project focused on identifying driver fatigue from images usin
 **Focus:** Computer Vision · Deep Learning · PyTorch
 
 
-### ♿ ROLLAWAY — Accessibility Application
-
-An application concept designed to improve accessibility and mobility for people with reduced mobility.
-
-**Focus:** Flutter · Application Development · Accessibility
-
----
-
 
 ## 🌱 What I'm Working Toward
 
