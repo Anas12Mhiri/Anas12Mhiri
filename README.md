@@ -18,7 +18,7 @@ My interests include Artificial Intelligence, Deep Learning, Natural Language Pr
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,mysql&theme=dark)](https://skillicons.dev)
 
 ### AI & Machine Learning
 
@@ -26,7 +26,7 @@ My interests include Artificial Intelligence, Deep Learning, Natural Language Pr
 
 ### Backend, Data & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,mongodb,git,github,flutter,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,mongodb,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
